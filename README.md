@@ -8,8 +8,8 @@
 - Camera-to-Eye Distance: Fixed at 10–15 cm
 - No Preprocessing or Annotation: All images are raw and unaltered
 
-Acquisition Conditions (12 scenarios)
-Images were captured under realistic, mobile-based challenges:
+### Acquisition Conditions (12 scenarios)
+### Images were captured under realistic, mobile-based challenges:
 1. Focused gaze
 2. Eye movements
 3. Head movements
@@ -23,8 +23,8 @@ Images were captured under realistic, mobile-based challenges:
 11. Poor illumination
 12. Poor focus
 
-Dataset Organization
-Structured folder hierarchy: grouped by subject and condition
+### Dataset Organization
+### Structured folder hierarchy: grouped by subject and condition
 File naming format includes:
 1. Device type (IP13)
 2. Subject ID (e.g., 029)
@@ -33,7 +33,7 @@ File naming format includes:
 5. Sequence number (e.g., 04 or 080)
 Example: IP13_029_L_R_04.jpg
 
-Key Features
+### Key Features
 - Focuses on non-cooperative iris recognition in mobile settings
 - Represents understudied Southeast Asian eye characteristics
 - Enables benchmarking under real-world noise and variability
